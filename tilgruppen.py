@@ -44,7 +44,7 @@ app.layout = html.Div(children=[
                                                  {'label': "Aarhus Banegaardsgade", 'value': 'AARH3'},
                                                  {'label': "Aalborg Oesterbro", 'value': 'AALB5'},
                                                  {'label': "Aalborg Vesterbro", 'value': 'AALB4'},
-                                                 {'label': "Ulfborg", 'value': 'ULGB'},
+                                                 {'label': "Ulfborg", 'value': 'ULBG'},
                                                  {'label': "Risoe", 'value': 'RISOE'},
                                                  {'label': "Foellesbjerg", 'value': 'FOEL'},
                                                  {'label': "Anholt", 'value': 'ANHO'},
